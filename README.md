@@ -96,7 +96,7 @@ Note: if you want to use some latest methods of Forge Viewer, yet the typeScript
         ```
         node_modules/@types/forge-viewer/index.d.ts
         ```
-
+https://stackoverflow.com/questions/60845940/how-to-use-dbid-in-autodeks-forge-viewer#:~:text=A%20dbId%20is%20defined%20when,SolidWorks%2C%20Revit%2C%20etc.)
 The distributed file ***PowerBI_ForgeViewer_Visual.pbiviz** will be generated at [dist folder](./forgePowerbiView/dist). Load the visual package in Power BI visuals box. Insert one instance, select dbid from fields. It will take some time for the custom visual to load the model in Viewer.
 
  <p align="center"><img src="./help/package.png" width="800"></p>   
